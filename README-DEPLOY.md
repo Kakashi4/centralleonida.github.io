@@ -1,4 +1,4 @@
-# Deploy — Central Leonida entity home
+# Deploy | Central Leonida entity home
 
 Generated with canonical URL: `https://kakashi4.github.io/centralleonida.github.io`.
 
@@ -10,11 +10,11 @@ This is a GitHub Pages **project site**: repository `kakashi4/centralleonida.git
 1. Sign in to GitHub as **kakashi4**.
 2. Open the **public** repository `centralleonida.github.io`. If it does not exist yet, create it.
 3. Upload **everything inside this `site/` folder** to the repository root (not the folder itself).
-   The folder includes a hidden `.nojekyll` file — enable "show hidden files" in your file manager
+   The folder includes a hidden `.nojekyll` file. Enable "show hidden files" in your file manager
    so it is uploaded too. Do not rename the IndexNow key `.txt` file.
 4. Repository Settings → Pages → Build and deployment → Source: **Deploy from a branch** →
    Branch: **main**, folder: **/ (root)** → Save.
-5. Wait 1–2 minutes and open `https://kakashi4.github.io/centralleonida.github.io/`.
+5. Wait 1 a 2 minutes and open `https://kakashi4.github.io/centralleonida.github.io/`.
 6. Check that `https://kakashi4.github.io/centralleonida.github.io/robots.txt`, `/llms.txt`, `/sitemap.xml` and the
    IndexNow key `.txt` file all open.
 

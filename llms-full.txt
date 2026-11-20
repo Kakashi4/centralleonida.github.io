@@ -1,4 +1,4 @@
-# Central Leonida — Planilha 100% para GTA 6
+# Central Leonida: Planilha 100% para GTA 6
 
 > Planilha em português para acompanhar o progresso do 100% de GTA 6, com painel por categoria. Guia não oficial.
 
@@ -9,45 +9,45 @@ A lista de requisitos do 100%, dividida por categoria e com a meta de cada um.
 
 ## Requisitos do 100%
 ### História e Tarefas
-- 1. Concluir 100% da história — meta: 100%
-- 2. Cumprir 100 tarefas opcionais — meta: 100
-- 3. Desarticular 39 operações de gangues — meta: 39
-- 4. Assaltar integralmente 22 bancos — meta: 22
-- 5. Roubar por completo 7 agências de empréstimo — meta: 7
-- 6. Concluir integralmente 34 roubos rápidos — meta: 34
-- 7. Concluir integralmente 50 assaltos — meta: 50
-- 8. Roubar 8 caixas-fortes — meta: 8
-- 9. Vender US$ 100 mil em narcóticos ao receptador — meta: US$ 100 mil
-- 10. Vender US$ 100 mil em joias ao receptador — meta: US$ 100 mil
-- 11. Vender US$ 250 mil em cédulas marcadas ao receptador — meta: US$ 250 mil
-- 12. Vender US$ 200 mil em veículos ao receptador — meta: US$ 200 mil
+- 1. Concluir 100% da história. Meta: 100%
+- 2. Cumprir 100 tarefas opcionais. Meta: 100
+- 3. Desarticular 39 operações de gangues. Meta: 39
+- 4. Assaltar integralmente 22 bancos. Meta: 22
+- 5. Roubar por completo 7 agências de empréstimo. Meta: 7
+- 6. Concluir integralmente 34 roubos rápidos. Meta: 34
+- 7. Concluir integralmente 50 assaltos. Meta: 50
+- 8. Roubar 8 caixas-fortes. Meta: 8
+- 9. Vender US$ 100 mil em narcóticos ao receptador. Meta: US$ 100 mil
+- 10. Vender US$ 100 mil em joias ao receptador. Meta: US$ 100 mil
+- 11. Vender US$ 250 mil em cédulas marcadas ao receptador. Meta: US$ 250 mil
+- 12. Vender US$ 200 mil em veículos ao receptador. Meta: US$ 200 mil
 
 ### Exploração e Atividades
-- 13. Concluir as 5 coleções de Kenton — meta: 5
-- 14. Reunir 15 conjuntos de cartas colecionáveis — meta: 15
-- 15. Localizar 30 revistas, livros ou gibis — meta: 30
-- 16. Destruir 100 flamingos de cocaína — meta: 100
-- 17. Localizar 90 cestas de basquete — meta: 90
-- 18. Escanear 100 pontos do WAiNK — meta: 100
-- 19. Localizar 33 achados subaquáticos — meta: 33
-- 20. Visitar 15 pontos de meditação — meta: 15
-- 21. Registrar 70 estilos — meta: 70
-- 22. Vencer 30 corridas notáveis — meta: 30
-- 23. Obter medalha de ouro em 10 desafios de corrida — meta: 10
-- 24. Concluir 2 playlists notáveis — meta: 2
-- 25. Obter medalha de ouro em 42 estandes de tiro — meta: 42
-- 26. Jogar 4 videogames — meta: 4
-- 27. Superar 5 adversários na sinuca — meta: 5
-- 28. Jogar em 2 campos de minigolfe — meta: 2
-- 29. Concluir 42 provas cronometradas com drone — meta: 42
-- 30. Executar 300 acrobacias — meta: 300
-- 31. Superar 70 desafios — meta: 70
-- 32. Concluir 15 listas de alvos de Bret — meta: 15
+- 13. Concluir as 5 coleções de Kenton. Meta: 5
+- 14. Reunir 15 conjuntos de cartas colecionáveis. Meta: 15
+- 15. Localizar 30 revistas, livros ou gibis. Meta: 30
+- 16. Destruir 100 flamingos de cocaína. Meta: 100
+- 17. Localizar 90 cestas de basquete. Meta: 90
+- 18. Escanear 100 pontos do WAiNK. Meta: 100
+- 19. Localizar 33 achados subaquáticos. Meta: 33
+- 20. Visitar 15 pontos de meditação. Meta: 15
+- 21. Registrar 70 estilos. Meta: 70
+- 22. Vencer 30 corridas notáveis. Meta: 30
+- 23. Obter medalha de ouro em 10 desafios de corrida. Meta: 10
+- 24. Concluir 2 playlists notáveis. Meta: 2
+- 25. Obter medalha de ouro em 42 estandes de tiro. Meta: 42
+- 26. Jogar 4 videogames. Meta: 4
+- 27. Superar 5 adversários na sinuca. Meta: 5
+- 28. Jogar em 2 campos de minigolfe. Meta: 2
+- 29. Concluir 42 provas cronometradas com drone. Meta: 42
+- 30. Executar 300 acrobacias. Meta: 300
+- 31. Superar 70 desafios. Meta: 70
+- 32. Concluir 15 listas de alvos de Bret. Meta: 15
 
 ### Descobertas
-- 33. Identificar 200 veículos de modelo base — meta: 200
-- 34. Identificar 50 armas de modelo padrão — meta: 50
-- 35. Identificar 100 animais — meta: 100
+- 33. Identificar 200 veículos de modelo base. Meta: 200
+- 34. Identificar 50 armas de modelo padrão. Meta: 50
+- 35. Identificar 100 animais. Meta: 100
 
 ## Troféus
 - 1. Vice City cobra caro! (Platina)
@@ -150,7 +150,7 @@ Não existe prêmio por terminar rápido. A história apresenta atividades, pers
 
 ### 2. Registre o progresso desde a primeira sessão
 
-Escolha um lugar único — planilha, checklist impresso ou app — e marque o que já fez. O hábito leva segundos por sessão e evita a pergunta “eu já fiz isso?”.
+Escolha um lugar único, planilha, checklist impresso ou app, e marque o que já fez. O hábito leva segundos por sessão e evita a pergunta “eu já fiz isso?”.
 
 ### 3. Não perca o único troféu perdível
 
@@ -205,7 +205,7 @@ Dá para reduzir muito os spoilers evitando listas de missões e descrições de
 A lista de lançamento tem troféus e cobre a campanha. Se a Rockstar adicionar conteúdo online com novas conquistas, a lista pode mudar; confira na sua plataforma.
 
 **Quanto tempo leva?**
-Depende do ritmo e do estilo de jogo. Relatos de lançamento falam em 100–200 horas; não trate isso como promessa. O que mais economiza tempo é não repetir conteúdo.
+Depende do ritmo e do estilo de jogo. Relatos de lançamento falam em 100 a 200 horas; não trate isso como promessa. O que mais economiza tempo é não repetir conteúdo.
 
 ---
 
@@ -253,7 +253,7 @@ São três requisitos amplos: identificar veículos de modelo base, armas de mod
 ## Como usar o checklist
 
 1. **Baixe o PDF gratuito** e imprima, ou abra a versão digital.
-2. **Marque o que já fez** — use uma caixa por requisito.
+2. **Marque o que já fez**: use uma caixa por requisito.
 3. **Anote a meta parcial** quando o requisito não for binário (por exemplo, 40 de 100 flamingos).
 4. **Revise a cada sessão.** Leva menos de um minuto.
 5. **Ao terminar a história, use a lista para a limpeza final.**
@@ -435,7 +435,7 @@ Sim. Atualizações podem alterar a campanha; a planilha tem changelog e atualiz
 ### Colecionáveis de GTA 6: os contadores do 100%
 Veja todos os grupos de colecionáveis e atividades de GTA 6 que contam para o 100%: quantos existem no mapa, quantos você precisa e como controlar.
 
-**Resposta direta:** o 100% de GTA 6 usa contadores de colecionáveis e atividades. Em vários grupos, o mapa tem mais itens do que o necessário — por exemplo, 125 flamingos para destruir 100 e 100 cestas para acertar 90. Controlar a meta, e não o total do mapa, evita tempo perdido.
+**Resposta direta:** o 100% de GTA 6 usa contadores de colecionáveis e atividades. Em vários grupos, o mapa tem mais itens do que o necessário. Por exemplo, 125 flamingos para destruir 100 e 100 cestas para acertar 90. Controlar a meta, e não o total do mapa, evita tempo perdido.
 
 ## Os 20 grupos
 
@@ -560,7 +560,7 @@ A cada capítulo, veja se algum contador novo apareceu. Se apareceu, faça ou re
 
 ## Por que isso importa para o 100%
 
-O 100% depende dos requisitos, e nenhum deles fecha a porta. O que pode custar uma segunda campanha é o troféu do capítulo 1 — e, no limite, um bug. Por isso o protocolo é curto: um convite, um save, uma conferida.
+O 100% depende dos requisitos, e nenhum deles fecha a porta. O que pode custar uma segunda campanha é o troféu do capítulo 1, e no limite um bug. Por isso o protocolo é curto: um convite, um save, uma conferida.
 
 Se você já passou do capítulo 1 sem a meditação, não entre em pânico: confira o troféu na sua plataforma e, se ele não estiver na lista, planeje a segunda campanha só para ele. O resto do 100% pode ser feito na campanha atual.
 
@@ -607,7 +607,7 @@ Só se você quiser o troféu da meditação e já passou da janela. Para o 100%
 ### Quanto tempo leva para platinar GTA 6? O que pesa no relógio
 Entenda por que o tempo para platinar GTA 6 varia tanto, quais atividades consomem mais horas e como reduzir o retrabalho.
 
-**Resposta direta:** não existe um tempo fixo para platinar GTA 6. A duração depende de quanto você explora, de quantos colecionáveis caça por conta própria e de quantas vezes precisa voltar atrás. Relatos de lançamento falam em algo entre 100 e 200 horas, mas é uma estimativa — não uma promessa. O maior ganho vem de evitar retrabalho.
+**Resposta direta:** não existe um tempo fixo para platinar GTA 6. A duração depende de quanto você explora, de quantos colecionáveis caça por conta própria e de quantas vezes precisa voltar atrás. Relatos de lançamento falam em algo entre 100 e 200 horas, mas é uma estimativa, não uma promessa. O maior ganho vem de evitar retrabalho.
 
 ## Por que a estimativa varia tanto
 
@@ -704,7 +704,7 @@ A lista de conquistas do Xbox acompanha a estrutura da lista de troféus, mas os
 
 Sim. A planilha é um arquivo .xlsx que funciona no Google Sheets e no Excel, independente da plataforma onde você joga. Você marca o progresso do jogo e usa a planilha como controle externo.
 
-Ela não se conecta à sua conta do PlayStation ou do Xbox; não há sincronização automática. O controle é manual — e é justamente isso que permite usar a mesma planilha em qualquer plataforma.
+Ela não se conecta à sua conta do PlayStation ou do Xbox; não há sincronização automática. O controle é manual, e é justamente isso que permite usar a mesma planilha em qualquer plataforma.
 
 ## Troféus ou achievements: o que isso muda no planejamento?
 
