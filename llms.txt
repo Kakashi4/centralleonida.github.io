@@ -7,6 +7,7 @@ Central Leonida é um produto digital independente para jogadores brasileiros de
 ## Produto
 - [Central Leonida — versão completa](https://centralleonida.gumroad.com/l/central-leonida): US$ 4,99 (Starter, 4 arquivos) ou US$ 7,99 (Main, 12 arquivos, com tour em vídeo)
 - [Checklist gratuito dos 35 requisitos](https://centralleonida.gumroad.com/l/checklist-35-requisitos): lead magnet em PDF, grátis
+- [Checklist gratuito (PDF direto)](https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf): uma página, sem checkout
 - [Demo em vídeo (80s)](https://centralleonida.gumroad.com/l/demo-planilha-gta-6): tour gratuito do painel e das abas
 - [Kit do Criador (grátis)](https://centralleonida.gumroad.com/l/kit-do-criador): criativos, vídeos, roteiros e calendário para afiliados
 
