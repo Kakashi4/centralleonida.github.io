@@ -2,10 +2,13 @@
 
 Generated with canonical URL: `https://kakashi4.github.io/centralleonida.github.io`.
 
+This is a GitHub Pages **project site**: repository `kakashi4/centralleonida.github.io`, served from the
+`/centralleonida.github.io/` subpath.
+
 ## 1. Publish on GitHub Pages (owner, ~10 minutes)
 
-1. Create a free GitHub account. Use the username **kakashi4** (the site is already generated for it).
-2. Create a **public** repository named `centralleonida.github.io` (a project site under your account).
+1. Sign in to GitHub as **kakashi4**.
+2. Open the **public** repository `centralleonida.github.io`. If it does not exist yet, create it.
 3. Upload **everything inside this `site/` folder** to the repository root (not the folder itself).
    The folder includes a hidden `.nojekyll` file — enable "show hidden files" in your file manager
    so it is uploaded too. Do not rename the IndexNow key `.txt` file.
@@ -37,9 +40,8 @@ bash site/ping-indexnow.sh https://kakashi4.github.io/centralleonida.github.io
 Then confirm the URL in Bing URL Inspection.
 
 ## 3. Connect Gumroad
-After the site is live, update the Gumroad description and receipt with the entity-home URL
-and add it to the product `sameAs` list. Use `build/update_marketing.py` after setting
-`SITE_URL` there, or paste the URL manually.
+The Gumroad descriptions and receipts already point to `https://kakashi4.github.io/centralleonida.github.io/`. If the URL changes,
+update them with `build/rewrite_listings_v3.py` after changing its `SITE` constant.
 
 ## 4. What not to change
 - Do not rename the IndexNow `.txt` key file; IndexNow needs it at the root.

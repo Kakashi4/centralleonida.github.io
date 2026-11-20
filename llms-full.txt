@@ -2,7 +2,7 @@
 
 > Planilha em português com os 35 requisitos, 91 missões e 55 troféus do 100% de GTA 6, com painel automático de progresso.
 
-Atualizado em 19/11/2026. Guia não oficial.
+Atualizado em 20/11/2026. Guia não oficial.
 
 ## Resposta: quantos requisitos tem o 100%?
 São 35 requisitos: 12 de História e Tarefas, 20 de Exploração e Atividades e 3 de Descobertas.
@@ -93,7 +93,7 @@ São 35 requisitos: 12 de História e Tarefas, 20 de Exploração e Atividades e
 - 41. Jogada ensaiada clássica (Bronze)
 - 42. O Estado da Curtição (Bronze)
 - 43. Fazendo a limpa (Bronze)
-- 44. No início…. (Bronze)
+- 44. No início… (Bronze)
 - 45. Infração capital (Bronze)
 - 46. Bora pro boliche (Bronze)
 - 47. Recorde pessoal (Bronze)
@@ -112,7 +112,7 @@ R: 35: 12 de História e Tarefas, 20 de Exploração e Atividades e 3 de Descobe
 P: Quantos troféus tem GTA 6?
 R: 55: 1 platina, 2 ouros, 6 pratas e 46 bronzes.
 P: Quanto tempo leva para platinar GTA 6?
-R: Depende do ritmo e da exploração; relatos de lançamento falam em 100–200 horas, sem garantia.
+R: Depende do ritmo e da exploração; relatos de lançamento falam em 100 a 200 horas, sem garantia.
 P: A Central Leonida é oficial?
 R: Não. É um guia não oficial, sem vínculo com Rockstar Games ou Take-Two Interactive.
 P: Funciona no PS5 e no Xbox?
