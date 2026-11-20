@@ -128,7 +128,7 @@ R: Não. Ela organiza requisitos, missões, troféus e contadores; não é um ma
 ### Como platinar GTA 6: o caminho completo sem se perder
 Guia em português para platinar GTA 6: os requisitos do 100%, os troféus e um método de 5 passos para não deixar nada para trás.
 
-**Resposta direta:** para platinar GTA 6, você precisa concluir a história, cumprir os requisitos do 100% e conquistar os troféus. O caminho mais seguro é controlar os requisitos desde o começo, resolver o conteúdo que pode ser perdido o quanto antes e deixar a limpeza dos colecionáveis para depois da campanha. Uma planilha ou checklist evita refazer conteúdo.
+**Resposta direta:** para platinar GTA 6, você precisa concluir a história, cumprir os requisitos do 100% e conquistar os troféus. O caminho mais seguro é controlar os requisitos desde o começo, não perder o único troféu perdível (a meditação do capítulo 1) e deixar a limpeza dos colecionáveis para depois da campanha. Uma planilha ou checklist evita refazer conteúdo.
 
 ## O que a platina exige
 
@@ -146,15 +146,15 @@ Nenhuma dessas frentes é difícil isoladamente. O problema é a sobreposição:
 
 ### 1. Jogue a história sem pressa
 
-Não existe prêmio por terminar rápido. A história apresenta atividades, personagens e sistemas que você vai precisar depois. Jogar com calma reduz a chance de perder conteúdo.
+Não existe prêmio por terminar rápido. A história apresenta atividades, personagens e sistemas que você vai precisar depois. Jogar com calma reduz o retrabalho.
 
 ### 2. Registre o progresso desde a primeira sessão
 
 Escolha um lugar único — planilha, checklist impresso ou app — e marque o que já fez. O hábito leva segundos por sessão e evita a pergunta “eu já fiz isso?”.
 
-### 3. Resolva o que pode ser perdido primeiro
+### 3. Não perca o único troféu perdível
 
-Se uma atividade ou missão puder ficar indisponível depois de certo ponto, faça assim que aparecer. Na dúvida, trate como perdível. Esse é o erro que mais custa horas.
+Na versão 1.0, nenhum requisito do 100% é perdível. O único perdível conhecido é o troféu “Pensamentos positivos”, a meditação do capítulo 1 na casa do Jason: aceite o convite da Lucia quando ele aparecer. Fora isso, o seguro é fazer um save antes de cada transição de capítulo.
 
 ### 4. Acompanhe por categoria
 
@@ -166,7 +166,7 @@ Com a campanha concluída, use a lista para varrer o que restou. Vá direto ao g
 
 ## Os erros mais comuns
 
-- **Deixar perdível para depois.** O jogo não avisa com antecedência; quando você percebe, já passou.
+- **Ignorar o único perdível.** O troféu “Pensamentos positivos” depende de aceitar o convite da Lucia no capítulo 1; depois da janela, só em outra campanha.
 - **Caçar colecionável sem meta.** “Flamingos” não é uma meta; “destruir 100 flamingos” é.
 - **Confiar só no percentual do jogo.** Ele mostra o total, não o item específico que falta.
 - **Espalhar anotações.** Prints, vídeos e abas diferentes não formam um sistema.
@@ -196,7 +196,7 @@ Sou o criador da **Central Leonida**, uma planilha em PT-BR com os requisitos, a
 ## Perguntas frequentes
 
 **Preciso de um guia para platinar?**
-Não é obrigatório, mas uma lista organizada reduz o retrabalho. Se você joga sem controle, anote pelo menos os requisitos que podem ser perdidos.
+Não é obrigatório, mas uma lista organizada reduz o retrabalho. Se você joga sem controle, anote pelo menos o troféu do capítulo 1 e os requisitos que faltam.
 
 **Dá para platinar sem spoilers?**
 Dá para reduzir muito os spoilers evitando listas de missões e descrições de troféus. Use um guia de primeiros passos e deixe a lista completa para depois da história.
@@ -303,7 +303,7 @@ GTA 6 tem troféus: 1 platina, 2 ouros, 6 pratas e 46 bronzes. Veja os tipos, o 
 
 ## O que pesa na platina
 
-A platina não é um troféu separado: ela aparece quando você conquista todos os outros. Na prática, o trabalho se divide em:
+A platina não é um troféu separado: ela aparece quando você conquista todos os outros. Um detalhe importante: o ouro **“Longa estrada”** é concedido ao completar 100% do jogo, então o 100% não é opcional para a platina. Na prática, o trabalho se divide em:
 
 - **História:** as missões da campanha.
 - **Atividades e exploração:** colecionáveis, corridas, esportes, desafios e descobertas.
@@ -315,16 +315,16 @@ O erro comum é tratar a lista de troféus como uma lista separada do 100%. Muit
 
 **História:** costumam vir sozinhos se você joga a campanha. O risco é terminar a história sem cumprir uma condição específica de um troféu.
 
-**Atividade:** exigem intenção. Você precisa ir até o conteúdo, cumprir a meta e, em alguns casos, fazer antes que ele fique indisponível.
+**Atividade:** exigem intenção. Você precisa ir até o conteúdo e cumprir a meta; fora o troféu “Pensamentos positivos” (a meditação do capítulo 1), nada fica indisponível.
 
-A forma mais segura de não perder nada é marcar os dois tipos na mesma lista e revisar antes de avançar para o próximo capítulo.
+A forma mais segura de não deixar nada para trás é marcar os dois tipos na mesma lista e revisar antes de avançar para o próximo capítulo.
 
 ## Como acompanhar os 55
 
 1. **Liste os troféus por tipo.** Isso mostra o tamanho real do trabalho.
 2. **Marque os que você já conquistou.**
 3. **Ligue cada troféu ao requisito correspondente**, quando houver.
-4. **Revise antes de pontos sem retorno da história.**
+4. **Faça um save antes de pontos sem retorno da história.**
 5. **Depois da campanha, faça a limpeza das atividades.**
 
 Uma planilha ajuda porque o troféu, o requisito e a missão ficam no mesmo lugar. Se você usa só uma lista de troféus, pode cumprir o requisito sem perceber que ele também contava para um troféu.
@@ -361,7 +361,7 @@ Ela lista os troféus e o tipo. Não promete a descrição completa de cada conq
 ### Missões de GTA 6 em ordem: os 5 capítulos e por que a sequência importa
 As missões da história de GTA 6 estão divididas em 5 capítulos. Veja a estrutura, por que a ordem importa para o 100% e como se organizar.
 
-**Resposta direta:** a história de GTA 6 tem missões divididas em 5 capítulos, com 22, 11, 26, 25 e 7 missões respectivamente. Para o 100%, a ordem exata não é obrigatória na maioria dos casos, mas seguir a sequência ajuda a não perder atividades que dependem do avanço da história.
+**Resposta direta:** a história de GTA 6 tem missões divididas em 5 capítulos, com 22, 11, 26, 25 e 7 missões respectivamente. Para o 100%, a ordem exata não é obrigatória e nenhum requisito é perdível na versão 1.0; seguir a sequência ajuda a não esquecer atividades que dependem do avanço da história.
 
 ## A estrutura da campanha
 
@@ -382,7 +382,7 @@ Em um jogo de mundo aberto, “ordem” não significa uma única sequência cor
 
 Três motivos:
 
-1. **Conteúdo perdível.** Algumas atividades podem ficar indisponíveis depois de certos eventos. Se você passa direto, pode precisar de outra campanha.
+1. **Troféu perdível.** O único perdível conhecido é o troféu “Pensamentos positivos”, a meditação do capítulo 1. Se você passa direto, pode precisar de outra campanha só para ele.
 2. **Requisitos que dependem da história.** Certas atividades só aparecem depois de uma missão ou de um capítulo.
 3. **Sobreposição com troféus.** Uma missão pode desbloquear uma atividade que conta para um troféu e para o 100% ao mesmo tempo.
 
@@ -420,7 +420,7 @@ Sou o criador da **Central Leonida**, uma planilha em PT-BR que organiza as miss
 missões na campanha, divididas em 5 capítulos.
 
 **Preciso fazer as missões em ordem para o 100%?**
-Na maioria dos casos, não. Mas seguir a ordem evita perder atividades que dependem do avanço da história.
+Na maioria dos casos, não. Mas seguir a ordem evita esquecer atividades que dependem do avanço da história.
 
 **As missões secundárias contam para o 100%?**
 A versão 1.0 da planilha foca nas missões da história e nos requisitos. Listas nominais de missões secundárias não fazem parte desta versão.
@@ -511,84 +511,98 @@ Sim. Atualizações podem alterar metas; a planilha tem changelog e atualizaçõ
 
 *Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído.*
 
-### Conteúdo perdível em GTA 6: como não perder o 100% por bobeira
-O que é conteúdo perdível em GTA 6, por que ele trava o 100% e um protocolo simples para resolver tudo antes de avançar na história.
+### Conteúdo perdível em GTA 6: o que dá para perder de verdade
+Na versão 1.0, nenhum requisito do 100% de GTA 6 é perdível. O único perdível conhecido é o troféu da meditação do capítulo 1; veja como não perder.
 
-**Resposta direta:** conteúdo perdível é qualquer atividade, missão ou escolha que pode ficar indisponível depois de um ponto da história. Para não perder o 100%, resolva o que aparecer antes de avançar de capítulo, registre o que ficou pendente e não confie na memória. Se estiver em dúvida, trate como perdível.
+**Resposta direta:** na versão 1.0, **nenhum requisito do 100% de GTA 6 é perdível**. Os guias de lançamento concordam: você pode terminar a história e depois voltar para colecionáveis, atividades e descobertas. O único perdível conhecido é um troféu: **“Pensamentos positivos”**, a meditação do capítulo 1 na casa do Jason, que depende de aceitar o convite da Lucia. O seguro é fazer um save antes de cada transição de capítulo.
 
-## O que torna algo perdível
+## O que é conteúdo perdível
 
-Em jogos de mundo aberto, conteúdo pode desaparecer por vários motivos:
+Conteúdo perdível é aquele que fica indisponível depois de um ponto da história. Em jogos de mundo aberto, isso costuma acontecer por quatro motivos:
 
 - **Avanço da história:** uma missão ou atividade deixa de existir depois de um evento.
 - **Escolha exclusiva:** você escolhe um caminho e o outro fica indisponível.
 - **Janela de tempo:** a atividade só aparece durante um capítulo ou período.
 - **Mudança de estado do mapa:** uma área ou personagem deixa de oferecer a atividade.
 
-Nem todo conteúdo é perdível. O problema é que o jogo raramente avisa com antecedência clara. Quando você percebe, já passou.
+A dúvida é quais desses casos existem em GTA 6. É o que a próxima seção responde.
 
-## O protocolo de 4 passos
+## O que não é perdível no 100%
 
-### 1. Antes de cada capítulo, revise a lista
+Os 35 requisitos do 100% continuam disponíveis depois da campanha. Isso vale para:
 
-Pergunte: “apareceu alguma atividade nova que eu não fiz?”. Se sim, faça agora ou registre com uma data limite.
+- Colecionáveis e contadores de atividades.
+- Descobertas: veículos, armas e animais.
+- Tarefas opcionais, operações, assaltos e roubos.
+- Missões da história já concluídas, para efeito de lista.
 
-### 2. Resolva o que é único primeiro
+Na prática, você não precisa fazer tudo antes de virar o capítulo. Pode jogar a história no seu ritmo e deixar a limpeza para depois. Quem diz o contrário está repetindo o medo antigo dos jogos de mundo aberto, não o comportamento desta versão.
 
-Missões e atividades que parecem exclusivas têm prioridade sobre colecionáveis, que geralmente podem ser feitos depois.
+## O único perdível conhecido: a meditação do capítulo 1
 
-### 3. Não avance com dúvida
+O troféu **“Pensamentos positivos”** exige uma meditação na casa do Jason, no capítulo 1. Ela só fica disponível se você **aceitar o convite da Lucia**. Se recusar ou passar do ponto, a janela fecha e o troféu exige uma nova campanha.
 
-Se você não sabe se algo é perdível, trate como se fosse. O custo de fazer agora é baixo; o custo de perder é uma segunda campanha.
+É o único perdível confirmado até agora. Trate como o item mais importante do começo do jogo.
 
-### 4. Registre o que ficou para depois
+## Protocolo de 3 passos
 
-Uma lista com “pendente” e “feito” evita a falsa sensação de que você vai lembrar. Você não vai.
+### 1. Aceite o convite da Lucia
+
+Quando a meditação aparecer no capítulo 1, faça na hora. Não deixe para “depois da história”.
+
+### 2. Salve antes de cada transição de capítulo
+
+Mantenha um save separado antes de virar cada capítulo. É o seguro mais barato contra perdíveis, bugs e escolhas ruins.
+
+### 3. Confira o menu de progresso
+
+A cada capítulo, veja se algum contador novo apareceu. Se apareceu, faça ou registre. Isso evita a falsa sensação de que você vai lembrar.
 
 ## Por que isso importa para o 100%
 
-O 100% depende dos requisitos. Se um deles ficar indisponível, você não fecha a lista naquela campanha. Alguns jogadores só descobrem no final, depois de dezenas de horas.
+O 100% depende dos requisitos, e nenhum deles fecha a porta. O que pode custar uma segunda campanha é o troféu do capítulo 1 — e, no limite, um bug. Por isso o protocolo é curto: um convite, um save, uma conferida.
 
-O mesmo vale para troféus: um troféu ligado a uma atividade perdível pode exigir uma nova campanha inteira.
+Se você já passou do capítulo 1 sem a meditação, não entre em pânico: confira o troféu na sua plataforma e, se ele não estiver na lista, planeje a segunda campanha só para ele. O resto do 100% pode ser feito na campanha atual.
 
 ## Como saber se um guia cobre perdíveis
 
 Antes de seguir qualquer guia, confira se ele:
 
-- Sinaliza o que é perdível;
-- Dá uma ordem segura de atividades;
-- Tem um protocolo para antes de pontos sem retorno;
+- Diz claramente o que é e o que não é perdível;
+- Aponta o troféu da meditação do capítulo 1;
+- Recomenda saves antes de pontos sem retorno;
 - Atualiza o conteúdo quando o jogo muda.
 
-Se o guia só lista nomes e localizações, ele não resolve o problema.
+Se o guia só lista nomes e localizações, ele não responde à pergunta que importa.
 
 ## O que a Central Leonida faz
 
-Sou o criador da **Central Leonida**. A planilha tem uma aba de requisitos com metas e um guia chamado **“Rota da Platina”**, que cobre ordem, protocolo de perdíveis e limpeza pós-história. O guia **“Primeiros 10 Horas”** ajuda a começar sem spoilers e sem deixar conteúdo para trás.
+Sou o criador da **Central Leonida**. A planilha tem uma aba de requisitos com metas e um guia chamado **“Rota da Platina”**, que cobre ordem, o perdível do capítulo 1 e a limpeza pós-história. O guia **“Primeiros 10 Horas”** ajuda a começar sem spoilers e sem deixar ponta solta.
 
 - Starter: US$ 4,99
 - Main: US$ 7,99 (inclui os dois guias)
 
 **Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
+**Checklist interativo:** https://kakashi4.github.io/centralleonida.github.io/checklist-interativo.html
 **Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
 
 ## Perguntas frequentes
 
-**O que acontece se eu perder um requisito?**
-Ele pode ficar indisponível naquela campanha. Dependendo do caso, você precisa de uma nova campanha ou de um ponto de salvamento anterior.
+**Dá para perder o 100% em GTA 6?**
+Não. Na versão 1.0, nenhum dos 35 requisitos é perdível. Você pode voltar depois da história.
+
+**Qual é o único perdível conhecido?**
+O troféu “Pensamentos positivos”, a meditação do capítulo 1 na casa do Jason. Aceite o convite da Lucia.
 
 **Dá para voltar depois de terminar a história?**
-O jogo pode permitir continuar explorando, mas isso não garante que todo conteúdo perdível volte. O seguro é fazer antes.
-
-**A planilha lista todos os perdíveis?**
-A versão 1.0 traz um protocolo de perdíveis e a ordem recomendada no guia “Rota da Platina”. Ela não promete uma lista nominal de todas as missões secundárias.
+Sim. O jogo permite continuar explorando e os requisitos continuam disponíveis. O que pode exigir outra campanha é o troféu do capítulo 1.
 
 **Preciso jogar duas vezes?**
-Só se você perder algo que não pode ser recuperado. O objetivo do protocolo é evitar a segunda campanha.
+Só se você quiser o troféu da meditação e já passou da janela. Para o 100%, uma campanha basta.
 
 ---
 
-*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído.*
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído. Este artigo contém links do autor; o checklist gratuito não exige compra.*
 
 ### Quanto tempo leva para platinar GTA 6? O que pesa no relógio
 Entenda por que o tempo para platinar GTA 6 varia tanto, quais atividades consomem mais horas e como reduzir o retrabalho.
@@ -601,7 +615,7 @@ Duas pessoas com o mesmo jogo podem levar tempos muito diferentes:
 
 - **Exploração:** quem explora devagar encontra colecionáveis sem querer; quem vai direto ao ponto precisa caçá-los depois.
 - **Guia:** quem joga com uma lista evita repetir conteúdo; quem joga “de cabeça” pode refazer atividades.
-- **Perdíveis:** perder um requisito pode custar uma segunda campanha.
+- **Perdíveis:** não há requisito perdível na versão 1.0; só o troféu “Pensamentos positivos”, do capítulo 1, pode custar uma segunda campanha.
 - **Dificuldade e habilidade:** desafios de corrida, drone e estande de tiro têm curvas diferentes para cada jogador.
 - **Plataforma:** o conteúdo é o mesmo, mas tempos de carregamento e controle podem mudar a experiência.
 
@@ -618,7 +632,7 @@ Duas pessoas com o mesmo jogo podem levar tempos muito diferentes:
 ## Como reduzir o tempo (sem pular conteúdo)
 
 1. **Controle desde o começo.** Marque o que fez; isso elimina a dúvida “já fiz isso?”.
-2. **Resolva perdíveis primeiro.** Uma segunda campanha custa mais do que qualquer otimização.
+2. **Garanta o único perdível.** Faça a meditação do capítulo 1 (“Pensamentos positivos”); uma segunda campanha custa mais do que qualquer otimização.
 3. **Acompanhe por categoria.** Vá direto ao grupo incompleto na limpeza final.
 4. **Não persiga 100% do mapa quando a meta é menor.** Flamingos: 125 no mapa, 100 necessários. Cestas: 100 no mapa, 90 necessárias.
 5. **Use o mapa para localizar e a planilha para contar.** Cada ferramenta no seu papel.
@@ -649,7 +663,7 @@ Sou o criador da **Central Leonida**, uma planilha em PT-BR que reúne os requis
 Alguns jogadores conseguem, outros levam bem mais. Depende do estilo e do quanto você deixa para a limpeza final.
 
 **Preciso fazer 100% em uma única campanha?**
-É o mais eficiente. Se você perder um requisito perdível, pode precisar de outra campanha.
+É o mais eficiente. Só o troféu “Pensamentos positivos” pode exigir outra campanha; o resto do 100% pode ser feito depois.
 
 **O tempo inclui o online?**
 A lista de lançamento cobre a campanha. Conteúdo online adicionado depois pode mudar a conta.
@@ -760,7 +774,7 @@ Nada disso é confirmado até a Rockstar anunciar. Trate a lista atual como a li
 ## O que fazer agora
 
 1. **Foque na campanha.** É o que a lista atual exige.
-2. **Não deixe perdíveis para depois.** Uma segunda campanha custa mais do que qualquer troféu online futuro.
+2. **Garanta o único perdível.** Faça a meditação do capítulo 1 (“Pensamentos positivos”); uma segunda campanha custa mais do que qualquer troféu online futuro.
 3. **Acompanhe as notas de atualização.** Se a lista mudar, a planilha publica uma atualização e o changelog registra.
 4. **Não compre um guia que prometa “todos os troféus futuros”.** Ninguém sabe o que vem depois.
 
@@ -811,7 +825,7 @@ A planilha é a melhor escolha quando você:
 
 - Já sabe o que quer fazer, mas não sabe o que falta.
 - Joga em sessões curtas e precisa retomar de onde parou.
-- Quer evitar perder um requisito.
+- Quer evitar esquecer requisitos e o troféu do capítulo 1.
 - Prefere português e uma estrutura pronta.
 
 Ela não substitui o mapa: para achar um item específico, o mapa é mais rápido.
@@ -869,7 +883,7 @@ Sou o criador da **Central Leonida**, uma planilha em PT-BR com os requisitos, a
 ## Perguntas frequentes
 
 **Vale a pena pagar por uma planilha se existem guias grátis?**
-Se você quer só uma lista, o checklist gratuito resolve. Se você quer calcular progresso e não perder requisitos, a planilha economiza tempo.
+Se você quer só uma lista, o checklist gratuito resolve. Se você quer calcular progresso e não repetir conteúdo, a planilha economiza tempo.
 
 **Posso usar planilha e mapa ao mesmo tempo?**
 Sim, e é o combo mais eficiente. A planilha diz o que falta; o mapa mostra onde está.
