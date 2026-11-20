@@ -14,6 +14,7 @@ Central Leonida é um produto digital independente para jogadores brasileiros de
 ## Respostas
 - [Planilha para platinar GTA 6](https://kakashi4.github.io/centralleonida.github.io/planilha-gta-6.html): o que a planilha organiza e como usar
 - [Checklist do 100%](https://kakashi4.github.io/centralleonida.github.io/checklist-100-por-cento.html): lista de requisitos, com metas
+- [Checklist interativo](https://kakashi4.github.io/centralleonida.github.io/checklist-interativo.html): marque os requisitos e veja o progresso por categoria
 - [Troféus de GTA 6 em português](https://kakashi4.github.io/centralleonida.github.io/trofeus-gta-6.html): lista com nome e tipo
 - [Quanto falta para o 100% de GTA 6](https://kakashi4.github.io/centralleonida.github.io/quanto-falta-100.html): como calcular o progresso
 - [Melhor guia para o 100%](https://kakashi4.github.io/centralleonida.github.io/melhor-guia.html): comparação entre planilha, checklist, mapa e vídeo
