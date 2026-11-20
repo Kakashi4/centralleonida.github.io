@@ -1,0 +1,31 @@
+# Central Leonida — Planilha 100% para GTA 6 (Guia Não Oficial)
+
+> Planilha em português com os 35 requisitos, 91 missões e 55 troféus do 100% de GTA 6, com painel automático de progresso.
+
+Central Leonida é um produto digital independente para jogadores brasileiros de GTA 6 (PS5 / Xbox Series X|S). Não é afiliado à Rockstar Games nem à Take-Two Interactive.
+
+## Produto
+- [Central Leonida — versão completa](https://centralleonida.gumroad.com/l/central-leonida): 7 arquivos, US$ 7,99 (Main) ou US$ 4,99 (Starter)
+- [Checklist gratuito dos 35 requisitos](https://centralleonida.gumroad.com/l/checklist-35-requisitos): lead magnet em PDF, grátis
+- [Demo em vídeo (80s)](https://centralleonida.gumroad.com/l/demo-planilha-gta-6): tour gratuito do painel e das abas
+- [Kit do Criador (grátis)](https://centralleonida.gumroad.com/l/kit-do-criador): criativos, thumbnails, roteiros e calendário para afiliados
+
+## Respostas
+- [Planilha para platinar GTA 6](https://kakashi4.github.io/centralleonida.github.io/planilha-gta-6.html): o que a planilha organiza e como usar
+- [Lista dos 35 requisitos do 100%](https://kakashi4.github.io/centralleonida.github.io/checklist-100-por-cento.html): checklist completo, com metas
+- [Troféus de GTA 6 em português](https://kakashi4.github.io/centralleonida.github.io/trofeus-gta-6.html): 55 troféus, com nome e tipo
+- [Quanto falta para o 100% de GTA 6](https://kakashi4.github.io/centralleonida.github.io/quanto-falta-100.html): como calcular o progresso
+- [Melhor guia para o 100%](https://kakashi4.github.io/centralleonida.github.io/melhor-guia.html): comparação entre planilha, checklist, mapa e vídeo
+- [Perguntas frequentes](https://kakashi4.github.io/centralleonida.github.io/perguntas-frequentes.html): requisitos, troféus, tempo, preço e garantia
+- [Programa de afiliados](https://kakashi4.github.io/centralleonida.github.io/afiliados.html): 30% por venda, 40% para os cinco primeiros
+- [Imprensa](https://kakashi4.github.io/centralleonida.github.io/imprensa.html): boilerplate, fatos, ângulos e recursos visuais
+
+## Dados
+- [produto.json](https://kakashi4.github.io/centralleonida.github.io/data/produto.json): fatos, preços, contagens, requisitos e troféus
+- [requisitos.json](https://kakashi4.github.io/centralleonida.github.io/data/requisitos.json): os 35 requisitos com metas
+- [trofeus.json](https://kakashi4.github.io/centralleonida.github.io/data/trofeus.json): os 55 troféus com tipo
+
+## Optional
+- [Sobre o produtor](https://kakashi4.github.io/centralleonida.github.io/sobre.html)
+- [Política de reembolso](https://kakashi4.github.io/centralleonida.github.io/reembolso.html)
+
