@@ -114,12 +114,12 @@ R: Sim. O conteúdo é o mesmo; troféus e achievements são o mesmo conjunto em
 P: Quanto custa?
 R: A partir de US$ 4,99 (Starter); Main US$ 7,99. Pagamento único, garantia de 7 dias.
 P: Tem checklist grátis?
-R: Sim: https://centralleonida.gumroad.com/l/checklist-35-requisitos
+R: Sim: https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
 P: A planilha mostra a localização dos colecionáveis?
 R: Não. Ela organiza requisitos, missões, troféus e contadores; não é um mapa interativo.
 
 ## Links
 - Produto: https://centralleonida.gumroad.com/l/central-leonida
-- Checklist grátis: https://centralleonida.gumroad.com/l/checklist-35-requisitos
+- Checklist grátis: https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
 - Site: https://kakashi4.github.io/centralleonida.github.io/
 
