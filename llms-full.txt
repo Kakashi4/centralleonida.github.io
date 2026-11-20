@@ -124,44 +124,763 @@ R: Não. Ela organiza requisitos, missões, troféus e contadores; não é um ma
 - Site: https://kakashi4.github.io/centralleonida.github.io/
 
 
-## Artigos
+## Artigos completos
 ### Como platinar GTA 6: o caminho completo sem se perder
 Guia em português para platinar GTA 6: os requisitos do 100%, os troféus e um método de 5 passos para não deixar nada para trás.
-Leia em: https://kakashi4.github.io/centralleonida.github.io/artigo-como-platinar-gta-6.html
+
+**Resposta direta:** para platinar GTA 6, você precisa concluir a história, cumprir os requisitos do 100% e conquistar os troféus. O caminho mais seguro é controlar os requisitos desde o começo, resolver o conteúdo que pode ser perdido o quanto antes e deixar a limpeza dos colecionáveis para depois da campanha. Uma planilha ou checklist evita refazer conteúdo.
+
+## O que a platina exige
+
+A platina é o troféu final. Ela não é um requisito separado: você a recebe quando completa a lista. Na prática, o trabalho se divide em três frentes:
+
+| Frente | O que inclui |
+|---|---|
+| História | As missões da campanha, na ordem em que o jogo apresenta |
+| Requisitos do 100% | exigências divididas em História e Tarefas (12), Exploração e Atividades (20) e Descobertas (3) |
+| Troféus | 55 conquistas: 1 platina, 2 ouros, 6 pratas e 46 bronzes |
+
+Nenhuma dessas frentes é difícil isoladamente. O problema é a sobreposição: uma atividade pode contar para um troféu, para um requisito e para o percentual ao mesmo tempo. Sem controle, você repete conteúdo.
+
+## O método de 5 passos
+
+### 1. Jogue a história sem pressa
+
+Não existe prêmio por terminar rápido. A história apresenta atividades, personagens e sistemas que você vai precisar depois. Jogar com calma reduz a chance de perder conteúdo.
+
+### 2. Registre o progresso desde a primeira sessão
+
+Escolha um lugar único — planilha, checklist impresso ou app — e marque o que já fez. O hábito leva segundos por sessão e evita a pergunta “eu já fiz isso?”.
+
+### 3. Resolva o que pode ser perdido primeiro
+
+Se uma atividade ou missão puder ficar indisponível depois de certo ponto, faça assim que aparecer. Na dúvida, trate como perdível. Esse é o erro que mais custa horas.
+
+### 4. Acompanhe por categoria
+
+Olhe o progresso de História e Tarefas, Exploração e Atividades e Descobertas separadamente. O percentual geral esconde onde está o buraco.
+
+### 5. Faça a limpeza depois da história
+
+Com a campanha concluída, use a lista para varrer o que restou. Vá direto ao grupo incompleto em vez de explorar o mapa inteiro de novo.
+
+## Os erros mais comuns
+
+- **Deixar perdível para depois.** O jogo não avisa com antecedência; quando você percebe, já passou.
+- **Caçar colecionável sem meta.** “Flamingos” não é uma meta; “destruir 100 flamingos” é.
+- **Confiar só no percentual do jogo.** Ele mostra o total, não o item específico que falta.
+- **Espalhar anotações.** Prints, vídeos e abas diferentes não formam um sistema.
+
+## Ferramentas: o que usar
+
+| Formato | Resolve | Não resolve |
+|---|---|---|
+| Planilha | Progresso por categoria, metas e próximos passos | Localização individual de itens |
+| Checklist em PDF | Marcar no papel, sem tela | Cálculo automático de percentual |
+| Mapa interativo | Encontrar itens no mapa | Organizar a ordem e o progresso |
+| Vídeo | Ver o caminho passo a passo | Consulta rápida e marcação |
+
+O ideal é combinar: planilha para saber o que falta, mapa para achar um item específico.
+
+## Como a Central Leonida ajuda
+
+Sou o criador da **Central Leonida**, uma planilha em PT-BR com os requisitos, as missões e os troféus do 100%. Ela tem painel automático, contadores de colecionáveis e dois guias: “Primeiros 10 Horas” (sem spoilers) e “Rota da Platina” (ordem e limpeza).
+
+- Starter: US$ 4,99
+- Main: US$ 7,99
+- Pagamento único, atualizações grátis por 12 meses, garantia de 7 dias
+
+**Checklist grátis dos requisitos:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
+**Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
+
+## Perguntas frequentes
+
+**Preciso de um guia para platinar?**
+Não é obrigatório, mas uma lista organizada reduz o retrabalho. Se você joga sem controle, anote pelo menos os requisitos que podem ser perdidos.
+
+**Dá para platinar sem spoilers?**
+Dá para reduzir muito os spoilers evitando listas de missões e descrições de troféus. Use um guia de primeiros passos e deixe a lista completa para depois da história.
+
+**GTA 6 tem troféu online?**
+A lista de lançamento tem troféus e cobre a campanha. Se a Rockstar adicionar conteúdo online com novas conquistas, a lista pode mudar; confira na sua plataforma.
+
+**Quanto tempo leva?**
+Depende do ritmo e do estilo de jogo. Relatos de lançamento falam em 100–200 horas; não trate isso como promessa. O que mais economiza tempo é não repetir conteúdo.
+
+---
+
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído. Este artigo contém links do autor; o checklist gratuito não exige compra.*
 
 ### Checklist GTA 6 100%: os requisitos em português
 Lista completa dos requisitos do 100% de GTA 6, dividida por categoria, com metas e um checklist gratuito em PDF para imprimir.
-Leia em: https://kakashi4.github.io/centralleonida.github.io/artigo-checklist-gta-6-100-por-cento.html
+
+**Resposta direta:** o checklist do 100% de GTA 6 tem requisitos: 12 de História e Tarefas, 20 de Exploração e Atividades e 3 de Descobertas. Você pode baixar uma versão em PDF de uma página, de graça, para imprimir e marcar. A planilha completa também calcula o progresso automaticamente.
+
+## Como os requisitos se dividem
+
+| Categoria | Requisitos | Exemplos do que conta |
+|---|---:|---|
+| História e Tarefas | 12 | História, tarefas opcionais, operações, assaltos, roubos e vendas ao receptador |
+| Exploração e Atividades | 20 | Coleções, cartas, revistas, flamingos, cestas, WAiNK, corridas, esportes e desafios |
+| Descobertas | 3 | Veículos, armas e animais |
+| **Total** | **35** | |
+
+## História e Tarefas (12)
+
+Aqui entram a conclusão da história, as tarefas opcionais, as operações de gangues, os assaltos a banco, as agências de empréstimo, os roubos rápidos, os assaltos, as caixas-fortes e as vendas ao receptador.
+
+O ponto de atenção é a ordem: algumas atividades podem depender do avanço da história ou podem ficar indisponíveis depois de certos eventos. Se você não tem certeza, faça assim que aparecer.
+
+## Exploração e Atividades (20)
+
+É o maior grupo e o que mais consome tempo. Inclui:
+
+- Coleções de Kenton e conjuntos de cartas
+- Revistas, livros e gibis
+- Flamingos de cocaína e cestas de basquete
+- Varreduras WAiNK e achados subaquáticos
+- Pontos de meditação e estilos registrados
+- Corridas, playlists e desafios de corrida
+- Estande de tiro, videogames, sinuca e minigolfe
+- Provas de drone, acrobacias, desafios e listas de Bret
+
+Cada item tem uma meta numérica. Sem a meta, você não sabe se falta um ou cinquenta.
+
+## Descobertas (3)
+
+São três requisitos amplos: identificar veículos de modelo base, armas de modelo padrão e animais. Como são listas longas, funcionam melhor com um contador do que com uma lista solta.
+
+## Como usar o checklist
+
+1. **Baixe o PDF gratuito** e imprima, ou abra a versão digital.
+2. **Marque o que já fez** — use uma caixa por requisito.
+3. **Anote a meta parcial** quando o requisito não for binário (por exemplo, 40 de 100 flamingos).
+4. **Revise a cada sessão.** Leva menos de um minuto.
+5. **Ao terminar a história, use a lista para a limpeza final.**
+
+Se você quiser que o percentual seja calculado sozinho, use uma planilha com painel automático. A versão em papel é ótima para quem prefere marcar à mão, mas não faz a conta.
+
+## O checklist gratuito
+
+Sou o criador da **Central Leonida** e disponibilizo o checklist dos requisitos em uma página, sem cadastro:
+
+👉 https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
+
+A versão completa (Starter US$ 4,99 / Main US$ 7,99) inclui as missões, os troféus, os contadores e o painel automático.
+
+## Perguntas frequentes
+
+**Quantos requisitos tem o 100% de GTA 6?**
+São 35: 12 de História e Tarefas, 20 de Exploração e Atividades e 3 de Descobertas.
+
+**Os números podem mudar?**
+Sim. Atualizações do jogo podem alterar metas. A planilha tem changelog e atualizações grátis por 12 meses.
+
+**O checklist gratuito é igual à planilha?**
+Não. O PDF lista os requisitos. A planilha adiciona missões, troféus, contadores e o cálculo de progresso.
+
+**Dá para usar no celular?**
+Sim. O PDF abre no celular; a planilha funciona no app do Google Sheets.
+
+---
+
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído. Este artigo contém links do autor; o checklist gratuito não exige compra.*
 
 ### Todos os troféus de GTA 6 em português: tipos e como acompanhar
 GTA 6 tem troféus: 1 platina, 2 ouros, 6 pratas e 46 bronzes. Veja os tipos, o que pesa na platina e como marcar o que falta.
-Leia em: https://kakashi4.github.io/centralleonida.github.io/artigo-todos-os-trofeus-gta-6.html
+
+**Resposta direta:** GTA 6 tem troféus: 1 platina, 2 ouros, 6 pratas e 46 bronzes. A maioria é de bronze e está ligada a atividades e exploração; os ouros e pratas concentram marcos da história e desafios mais longos. A platina exige completar a lista e os requisitos do 100%.
+
+## A distribuição dos troféus
+
+| Tipo | Quantidade | O que costuma representar |
+|---|---:|---|
+| Platina | 1 | Completar todos os outros troféus |
+| Ouro | 2 | Marcos grandes da história ou do 100% |
+| Prata | 6 | Desafios de média duração e atividades específicas |
+| Bronze | 46 | Missões, atividades, colecionáveis e descobertas |
+| **Total** | **55** | |
+
+## O que pesa na platina
+
+A platina não é um troféu separado: ela aparece quando você conquista todos os outros. Na prática, o trabalho se divide em:
+
+- **História:** as missões da campanha.
+- **Atividades e exploração:** colecionáveis, corridas, esportes, desafios e descobertas.
+- **Requisitos do 100%:** exigências que se sobrepõem aos troféus.
+
+O erro comum é tratar a lista de troféus como uma lista separada do 100%. Muitos troféus vêm naturalmente ao cumprir os requisitos; outros exigem uma ação específica que não está óbvia.
+
+## Troféus de história x troféus de atividade
+
+**História:** costumam vir sozinhos se você joga a campanha. O risco é terminar a história sem cumprir uma condição específica de um troféu.
+
+**Atividade:** exigem intenção. Você precisa ir até o conteúdo, cumprir a meta e, em alguns casos, fazer antes que ele fique indisponível.
+
+A forma mais segura de não perder nada é marcar os dois tipos na mesma lista e revisar antes de avançar para o próximo capítulo.
+
+## Como acompanhar os 55
+
+1. **Liste os troféus por tipo.** Isso mostra o tamanho real do trabalho.
+2. **Marque os que você já conquistou.**
+3. **Ligue cada troféu ao requisito correspondente**, quando houver.
+4. **Revise antes de pontos sem retorno da história.**
+5. **Depois da campanha, faça a limpeza das atividades.**
+
+Uma planilha ajuda porque o troféu, o requisito e a missão ficam no mesmo lugar. Se você usa só uma lista de troféus, pode cumprir o requisito sem perceber que ele também contava para um troféu.
+
+## A lista completa em português
+
+A lista com os 55 nomes e o tipo de cada um está no site da Central Leonida:
+
+👉 https://kakashi4.github.io/centralleonida.github.io/trofeus-gta-6.html
+
+Lá também está o checklist gratuito dos requisitos e a planilha com o painel de progresso.
+
+## Perguntas frequentes
+
+**Quantos troféus tem GTA 6?**
+55: 1 platina, 2 ouros, 6 pratas e 46 bronzes.
+
+**Qual é o troféu de platina?**
+“Vice City cobra caro!”.
+
+**Os nomes são iguais no PS5 e no Xbox?**
+A lista segue a localização em português. Nomes e conquistas podem variar com patches ou entre plataformas; confira na sua.
+
+**GTA 6 tem troféu online?**
+A lista de lançamento cobre a campanha. Se a Rockstar adicionar conteúdo online com novas conquistas, a lista pode mudar.
+
+**A planilha dá a descrição completa de cada troféu?**
+Ela lista os troféus e o tipo. Não promete a descrição completa de cada conquista.
+
+---
+
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído.*
 
 ### Missões de GTA 6 em ordem: os 5 capítulos e por que a sequência importa
 As missões da história de GTA 6 estão divididas em 5 capítulos. Veja a estrutura, por que a ordem importa para o 100% e como se organizar.
-Leia em: https://kakashi4.github.io/centralleonida.github.io/artigo-missoes-gta-6-em-ordem.html
+
+**Resposta direta:** a história de GTA 6 tem missões divididas em 5 capítulos, com 22, 11, 26, 25 e 7 missões respectivamente. Para o 100%, a ordem exata não é obrigatória na maioria dos casos, mas seguir a sequência ajuda a não perder atividades que dependem do avanço da história.
+
+## A estrutura da campanha
+
+| Capítulo | Missões |
+|---|---:|
+| Capítulo 1 | 22 |
+| Capítulo 2 | 11 |
+| Capítulo 3 | 26 |
+| Capítulo 4 | 25 |
+| Capítulo 5 | 7 |
+| **Total** | **91** |
+
+Os números são da versão 1.0 (novembro de 2026) e podem mudar com atualizações.
+
+## Por que a ordem importa
+
+Em um jogo de mundo aberto, “ordem” não significa uma única sequência correta. Significa **não avançar sem resolver o que pode desaparecer**.
+
+Três motivos:
+
+1. **Conteúdo perdível.** Algumas atividades podem ficar indisponíveis depois de certos eventos. Se você passa direto, pode precisar de outra campanha.
+2. **Requisitos que dependem da história.** Certas atividades só aparecem depois de uma missão ou de um capítulo.
+3. **Sobreposição com troféus.** Uma missão pode desbloquear uma atividade que conta para um troféu e para o 100% ao mesmo tempo.
+
+Seguir a ordem natural do jogo e manter uma lista do que apareceu é mais seguro do que tentar rushar a campanha.
+
+## Como se organizar sem decorar missões
+
+- **Marque cada missão concluída** na sua lista.
+- **Anote o capítulo** para saber onde você está.
+- **Antes de avançar de capítulo**, revise se alguma atividade nova ficou pendente.
+- **Não deixe atividades “para depois”** sem registrar; você não vai lembrar.
+- **Depois da história**, use a lista para a limpeza final.
+
+A aba “Missões” da planilha Central Leonida traz as missões com capítulo e ordem, para você marcar sem precisar montar a lista do zero.
+
+## Devo seguir a ordem dos troféus?
+
+Não. A lista de troféus não é uma ordem de jogo; é uma lista de conquistas. O melhor é jogar a história na ordem que o jogo apresenta e usar os troféus como conferência.
+
+Se um troféu exigir uma ação específica durante uma missão, faça na primeira oportunidade. Não conte com uma segunda chance.
+
+## Ferramenta pronta
+
+Sou o criador da **Central Leonida**, uma planilha em PT-BR que organiza as missões, os requisitos e os troféus em um só lugar, com painel de progresso.
+
+- Starter: US$ 4,99
+- Main: US$ 7,99 (inclui os guias “Primeiros 10 Horas” e “Rota da Platina”)
+
+**Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
+**Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
+
+## Perguntas frequentes
+
+**Quantas missões tem GTA 6?**
+missões na campanha, divididas em 5 capítulos.
+
+**Preciso fazer as missões em ordem para o 100%?**
+Na maioria dos casos, não. Mas seguir a ordem evita perder atividades que dependem do avanço da história.
+
+**As missões secundárias contam para o 100%?**
+A versão 1.0 da planilha foca nas missões da história e nos requisitos. Listas nominais de missões secundárias não fazem parte desta versão.
+
+**Os números podem mudar?**
+Sim. Atualizações podem alterar a campanha; a planilha tem changelog e atualizações grátis por 12 meses.
+
+---
+
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído.*
 
 ### Colecionáveis de GTA 6: os contadores do 100%
 Veja todos os grupos de colecionáveis e atividades de GTA 6 que contam para o 100%: quantos existem no mapa, quantos você precisa e como controlar.
-Leia em: https://kakashi4.github.io/centralleonida.github.io/artigo-colecionaveis-gta-6.html
+
+**Resposta direta:** o 100% de GTA 6 usa contadores de colecionáveis e atividades. Em vários grupos, o mapa tem mais itens do que o necessário — por exemplo, 125 flamingos para destruir 100 e 100 cestas para acertar 90. Controlar a meta, e não o total do mapa, evita tempo perdido.
+
+## Os 20 grupos
+
+| Grupo | No mapa | Necessário |
+|---|---:|---:|
+| Conjuntos de Kenton | 7 | 5 coleções completas |
+| Conjuntos de cartas | 18 | 15 conjuntos completos |
+| Revistas, livros e gibis | 34 | 30 localizados |
+| Flamingos de cocaína | 125 | 100 destruídos |
+| Cestas de basquete | 100 | 90 acertadas |
+| Varreduras WAiNK | 100 | 100 |
+| Achados subaquáticos | 33 | 33 |
+| Pontos de meditação | 18 | 15 visitados |
+| Estilos registrados | 79 | 70 |
+| Corridas notáveis | 40 | 30 vencidas |
+| Ouros em desafios de corrida | 13 | 10 |
+| Playlists notáveis | 2 | 2 |
+| Ouros no estande de tiro | 42 | 42 |
+| Videogames | 4 | 4 |
+| Adversários na sinuca | 7 | 5 |
+| Campos de minigolfe | 3 | 2 |
+| Provas cronometradas com drone | 42 | 42 |
+| Acrobacias | 397 | 300 |
+| Desafios | 80 | 70 |
+| Listas de alvos de Bret | 15 | 15 |
+
+## O que esses números significam
+
+Quando o mapa tem mais itens do que a meta, você não precisa de 100% de coleta. Isso muda a estratégia:
+
+- **Flamingos:** 125 no mapa, 100 necessários. Você pode deixar 25 para trás.
+- **Cestas:** 100 no mapa, 90 necessárias. Dez podem ficar.
+- **Revistas:** 34 no mapa, 30 necessárias.
+- **Estilos:** 79 no mapa, 70 necessários.
+- **Corridas:** 40 no mapa, 30 necessárias.
+
+Nos grupos em que o total é igual à meta (WAiNK, achados subaquáticos, playlists, estande de tiro, videogames, drones e listas de Bret), você precisa de todos.
+
+## Como controlar sem enlouquecer
+
+1. **Escolha um grupo por vez.** Alternar entre contadores é a receita para se perder.
+2. **Anote o número parcial.** “40/100 flamingos” é mais útil do que “fazendo flamingos”.
+3. **Use o mapa para localizar, a planilha para contar.** O mapa mostra onde está; a planilha mostra quanto falta.
+4. **Não persiga 100% do mapa quando a meta é menor.** Você economiza horas.
+5. **Revise no fim de cada sessão.** Atualize os números enquanto lembra.
+
+## Colecionáveis e troféus
+
+Muitos colecionáveis estão ligados a troféus de bronze. Cumprir a meta do 100% geralmente desbloqueia o troféu correspondente, masnem sempre na mesma hora. Se um troféu não aparecer, confira se você completou o grupo exigido (por exemplo, 5 coleções de Kenton, não 5 itens).
+
+## Ferramenta pronta
+
+Sou o criador da **Central Leonida**, uma planilha em PT-BR com os contadores, os requisitos, as missões e os troféus. O painel mostra o progresso por categoria e o que falta.
+
+**Checklist grátis dos requisitos:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
+**Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
+
+## Perguntas frequentes
+
+**Quantos colecionáveis tem GTA 6?**
+São 20 grupos, com totais que variam de 2 playlists a 397 acrobacias no mapa. Nem todos exigem 100% dos itens.
+
+**Preciso pegar todos os flamingos?**
+Não. São 125 no mapa e 100 necessários para o requisito.
+
+**A planilha mostra a localização dos itens?**
+Não. Ela organiza os contadores e o progresso; para localização, use um mapa interativo.
+
+**Os números podem mudar?**
+Sim. Atualizações podem alterar metas; a planilha tem changelog e atualizações grátis por 12 meses.
+
+---
+
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído.*
 
 ### Conteúdo perdível em GTA 6: como não perder o 100% por bobeira
 O que é conteúdo perdível em GTA 6, por que ele trava o 100% e um protocolo simples para resolver tudo antes de avançar na história.
-Leia em: https://kakashi4.github.io/centralleonida.github.io/artigo-gta-6-perdiveis.html
+
+**Resposta direta:** conteúdo perdível é qualquer atividade, missão ou escolha que pode ficar indisponível depois de um ponto da história. Para não perder o 100%, resolva o que aparecer antes de avançar de capítulo, registre o que ficou pendente e não confie na memória. Se estiver em dúvida, trate como perdível.
+
+## O que torna algo perdível
+
+Em jogos de mundo aberto, conteúdo pode desaparecer por vários motivos:
+
+- **Avanço da história:** uma missão ou atividade deixa de existir depois de um evento.
+- **Escolha exclusiva:** você escolhe um caminho e o outro fica indisponível.
+- **Janela de tempo:** a atividade só aparece durante um capítulo ou período.
+- **Mudança de estado do mapa:** uma área ou personagem deixa de oferecer a atividade.
+
+Nem todo conteúdo é perdível. O problema é que o jogo raramente avisa com antecedência clara. Quando você percebe, já passou.
+
+## O protocolo de 4 passos
+
+### 1. Antes de cada capítulo, revise a lista
+
+Pergunte: “apareceu alguma atividade nova que eu não fiz?”. Se sim, faça agora ou registre com uma data limite.
+
+### 2. Resolva o que é único primeiro
+
+Missões e atividades que parecem exclusivas têm prioridade sobre colecionáveis, que geralmente podem ser feitos depois.
+
+### 3. Não avance com dúvida
+
+Se você não sabe se algo é perdível, trate como se fosse. O custo de fazer agora é baixo; o custo de perder é uma segunda campanha.
+
+### 4. Registre o que ficou para depois
+
+Uma lista com “pendente” e “feito” evita a falsa sensação de que você vai lembrar. Você não vai.
+
+## Por que isso importa para o 100%
+
+O 100% depende dos requisitos. Se um deles ficar indisponível, você não fecha a lista naquela campanha. Alguns jogadores só descobrem no final, depois de dezenas de horas.
+
+O mesmo vale para troféus: um troféu ligado a uma atividade perdível pode exigir uma nova campanha inteira.
+
+## Como saber se um guia cobre perdíveis
+
+Antes de seguir qualquer guia, confira se ele:
+
+- Sinaliza o que é perdível;
+- Dá uma ordem segura de atividades;
+- Tem um protocolo para antes de pontos sem retorno;
+- Atualiza o conteúdo quando o jogo muda.
+
+Se o guia só lista nomes e localizações, ele não resolve o problema.
+
+## O que a Central Leonida faz
+
+Sou o criador da **Central Leonida**. A planilha tem uma aba de requisitos com metas e um guia chamado **“Rota da Platina”**, que cobre ordem, protocolo de perdíveis e limpeza pós-história. O guia **“Primeiros 10 Horas”** ajuda a começar sem spoilers e sem deixar conteúdo para trás.
+
+- Starter: US$ 4,99
+- Main: US$ 7,99 (inclui os dois guias)
+
+**Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
+**Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
+
+## Perguntas frequentes
+
+**O que acontece se eu perder um requisito?**
+Ele pode ficar indisponível naquela campanha. Dependendo do caso, você precisa de uma nova campanha ou de um ponto de salvamento anterior.
+
+**Dá para voltar depois de terminar a história?**
+O jogo pode permitir continuar explorando, mas isso não garante que todo conteúdo perdível volte. O seguro é fazer antes.
+
+**A planilha lista todos os perdíveis?**
+A versão 1.0 traz um protocolo de perdíveis e a ordem recomendada no guia “Rota da Platina”. Ela não promete uma lista nominal de todas as missões secundárias.
+
+**Preciso jogar duas vezes?**
+Só se você perder algo que não pode ser recuperado. O objetivo do protocolo é evitar a segunda campanha.
+
+---
+
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído.*
 
 ### Quanto tempo leva para platinar GTA 6? O que pesa no relógio
 Entenda por que o tempo para platinar GTA 6 varia tanto, quais atividades consomem mais horas e como reduzir o retrabalho.
-Leia em: https://kakashi4.github.io/centralleonida.github.io/artigo-quanto-tempo-para-platinar-gta-6.html
+
+**Resposta direta:** não existe um tempo fixo para platinar GTA 6. A duração depende de quanto você explora, de quantos colecionáveis caça por conta própria e de quantas vezes precisa voltar atrás. Relatos de lançamento falam em algo entre 100 e 200 horas, mas é uma estimativa — não uma promessa. O maior ganho vem de evitar retrabalho.
+
+## Por que a estimativa varia tanto
+
+Duas pessoas com o mesmo jogo podem levar tempos muito diferentes:
+
+- **Exploração:** quem explora devagar encontra colecionáveis sem querer; quem vai direto ao ponto precisa caçá-los depois.
+- **Guia:** quem joga com uma lista evita repetir conteúdo; quem joga “de cabeça” pode refazer atividades.
+- **Perdíveis:** perder um requisito pode custar uma segunda campanha.
+- **Dificuldade e habilidade:** desafios de corrida, drone e estande de tiro têm curvas diferentes para cada jogador.
+- **Plataforma:** o conteúdo é o mesmo, mas tempos de carregamento e controle podem mudar a experiência.
+
+## O que consome mais horas
+
+| Bloco | Peso no tempo | Por quê |
+|---|---|---|
+| História (missões) | Alto | É a base de tudo; difícil acelerar sem perder conteúdo |
+| Exploração e atividades (20 grupos) | Muito alto | Centenas de itens e desafios espalhados pelo mapa |
+| Descobertas (3 grupos) | Alto | Listas longas de veículos, armas e animais |
+| Troféus | Médio | Muitos vêm junto com o 100%; alguns exigem ação específica |
+| Limpeza final | Médio | Depende de quanto você deixou para depois |
+
+## Como reduzir o tempo (sem pular conteúdo)
+
+1. **Controle desde o começo.** Marque o que fez; isso elimina a dúvida “já fiz isso?”.
+2. **Resolva perdíveis primeiro.** Uma segunda campanha custa mais do que qualquer otimização.
+3. **Acompanhe por categoria.** Vá direto ao grupo incompleto na limpeza final.
+4. **Não persiga 100% do mapa quando a meta é menor.** Flamingos: 125 no mapa, 100 necessários. Cestas: 100 no mapa, 90 necessárias.
+5. **Use o mapa para localizar e a planilha para contar.** Cada ferramenta no seu papel.
+
+## A conta do progresso
+
+O 100% tem requisitos. Para saber quanto falta, divida os concluídos por 35:
+
+| Concluídos | Progresso |
+|---:|---:|
+| 10 | 29% |
+| 20 | 57% |
+| 30 | 86% |
+| 35 | 100% |
+
+O número geral ajuda, mas o que economiza tempo é o detalhe por categoria.
+
+## Ferramenta pronta
+
+Sou o criador da **Central Leonida**, uma planilha em PT-BR que reúne os requisitos, as missões e os troféus, com painel automático e contadores. Ela não promete um tempo fixo; ela mostra o que falta para você decidir o próximo passo.
+
+**Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
+**Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
+
+## Perguntas frequentes
+
+**Dá para platinar em 100 horas?**
+Alguns jogadores conseguem, outros levam bem mais. Depende do estilo e do quanto você deixa para a limpeza final.
+
+**Preciso fazer 100% em uma única campanha?**
+É o mais eficiente. Se você perder um requisito perdível, pode precisar de outra campanha.
+
+**O tempo inclui o online?**
+A lista de lançamento cobre a campanha. Conteúdo online adicionado depois pode mudar a conta.
+
+**A planilha acelera o processo?**
+Ela reduz o retrabalho e o tempo procurando o que falta. Não substitui a jogabilidade.
+
+---
+
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído.*
 
 ### GTA 6 no PS5 e no Xbox: o 100% é diferente?
 O conteúdo do 100% de GTA 6 é o mesmo no PS5 e no Xbox. Veja o que muda entre troféus e conquistas e como usar a mesma planilha nas duas plataformas.
-Leia em: https://kakashi4.github.io/centralleonida.github.io/artigo-gta-6-ps5-vs-xbox.html
+
+**Resposta direta:** o conteúdo do 100% de GTA 6 é o mesmo no PS5 e no Xbox. Os requisitos, as missões e os contadores não mudam de uma plataforma para outra. O que muda é o nome do sistema de conquistas: troféus no PlayStation e achievements no Xbox. A mesma planilha serve para as duas.
+
+## O que é igual
+
+- Os requisitos do 100%.
+- As missões da história e os 5 capítulos.
+- Os 20 grupos de colecionáveis e atividades.
+- As metas numéricas (100 flamingos, 90 cestas, 300 acrobacias etc.).
+- As descobertas de veículos, armas e animais.
+- A estrutura de 55 conquistas.
+
+## O que muda
+
+| Item | PS5 | Xbox |
+|---|---|---|
+| Nome do sistema | Troféus | Achievements |
+| Conquista final | Platina | Conquista de conclusão |
+| Pontuação | Troféus de bronze/prata/ouro/platina | Gamerscore |
+| Nomes localizados | Podem variar com o patch | Podem variar com o patch |
+
+A lista de conquistas do Xbox acompanha a estrutura da lista de troféus, mas os nomes e a pontuação podem ser diferentes. O importante para o 100% é o conteúdo do jogo, não o nome da conquista.
+
+## A planilha funciona nas duas?
+
+Sim. A planilha é um arquivo .xlsx que funciona no Google Sheets e no Excel, independente da plataforma onde você joga. Você marca o progresso do jogo e usa a planilha como controle externo.
+
+Ela não se conecta à sua conta do PlayStation ou do Xbox; não há sincronização automática. O controle é manual — e é justamente isso que permite usar a mesma planilha em qualquer plataforma.
+
+## Troféus ou achievements: o que isso muda no planejamento?
+
+Nada no conteúdo. Só na hora de conferir a lista:
+
+- No PS5, acompanhe os troféus e a platina.
+- No Xbox, acompanhe os achievements e o Gamerscore.
+- Em ambos, o critério para o 100% é o mesmo: cumprir os requisitos e concluir a lista de conquistas.
+
+Se você joga nas duas plataformas, pode usar duas cópias da planilha ou uma só, anotando a plataforma na aba de notas. O progresso não é sincronizado entre elas.
+
+## Qual versão comprar?
+
+A planilha é a mesma para PS5 e Xbox. Não existe uma “versão PlayStation” e uma “versão Xbox”. Escolha pelo conteúdo:
+
+- **Starter (US$ 4,99):** planilha + checklist para imprimir + atualizações.
+- **Main (US$ 7,99):** Starter + guias “Primeiros 10 Horas” e “Rota da Platina”.
+
+**Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
+**Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
+
+## Perguntas frequentes
+
+**O 100% é mais fácil no PS5 ou no Xbox?**
+O conteúdo é o mesmo. A dificuldade depende do jogo, não da plataforma.
+
+**A platina existe no Xbox?**
+O Xbox usa achievements e Gamerscore; a conquista final equivale à platina, mas não se chama assim.
+
+**Consigo transferir o progresso entre plataformas?**
+A planilha é manual e não sincroniza com o jogo. Você pode anotar o progresso nas duas, mas a transferência depende do jogo e da conta, não da planilha.
+
+**Os nomes dos troféus são iguais?**
+Seguem a localização em português, mas podem variar com patches ou entre plataformas. Confira na sua.
+
+---
+
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído.*
 
 ### GTA 6 tem troféu online? O que a lista de lançamento mostra
 A lista de lançamento de GTA 6 tem troféus e cobre a campanha. Veja o que isso significa para a platina e o que pode mudar com atualizações.
-Leia em: https://kakashi4.github.io/centralleonida.github.io/artigo-gta-6-trofeu-online.html
+
+**Resposta direta:** a lista de lançamento de GTA 6 tem troféus e cobre a campanha; não inclui troféus de GTA Online. Isso pode mudar se a Rockstar adicionar conteúdo online com novas conquistas. Para a platina atual, o foco é a campanha e os requisitos do 100%.
+
+## O que a lista de lançamento inclui
+
+| Tipo | Quantidade |
+|---|---:|
+| Platina | 1 |
+| Ouro | 2 |
+| Prata | 6 |
+| Bronze | 46 |
+| **Total** | **55** |
+
+A lista acompanha a campanha: história, atividades, colecionáveis e descobertas. Não há, na versão 1.0, um troféu que exija jogar online.
+
+## Por que isso pode mudar
+
+A Rockstar tem histórico de adicionar conteúdo e conquistas depois do lançamento. Se isso acontecer com GTA 6:
+
+- A lista pode ganhar novos troféus.
+- A platina pode passar a exigir conteúdo online.
+- O tempo para platinar pode aumentar.
+
+Nada disso é confirmado até a Rockstar anunciar. Trate a lista atual como a lista da versão 1.0, não como uma promessa para o futuro.
+
+## O que fazer agora
+
+1. **Foque na campanha.** É o que a lista atual exige.
+2. **Não deixe perdíveis para depois.** Uma segunda campanha custa mais do que qualquer troféu online futuro.
+3. **Acompanhe as notas de atualização.** Se a lista mudar, a planilha publica uma atualização e o changelog registra.
+4. **Não compre um guia que prometa “todos os troféus futuros”.** Ninguém sabe o que vem depois.
+
+## A planilha cobre o quê?
+
+Sou o criador da **Central Leonida**. A planilha cobre os troféus da versão 1.0, os requisitos, as missões e os contadores. Se a lista mudar, as atualizações são grátis por 12 meses e ficam registradas na aba “Fontes & Changelog”.
+
+**Lista completa de troféus:** https://kakashi4.github.io/centralleonida.github.io/trofeus-gta-6.html
+**Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
+**Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
+
+## Perguntas frequentes
+
+**GTA 6 tem troféu de GTA Online?**
+Na lista de lançamento, não. A lista cobre a campanha. Conteúdo online pode ser adicionado depois.
+
+**Preciso de PlayStation Plus ou Xbox Live para platinar?**
+Para a campanha, não. Se a Rockstar adicionar troféus online no futuro, isso pode mudar.
+
+**A platina pode ficar impossível se eu não jogar online?**
+Hoje, a lista não exige online. Se isso mudar, a resposta depende do que a Rockstar anunciar.
+
+**Os troféus são definitivos?**
+São os da versão 1.0. Atualizações podem alterar a lista.
+
+---
+
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído.*
 
 ### Planilha ou guia em vídeo para o 100% de GTA 6? Comparação honesta
 Planilha, vídeo, checklist em PDF ou mapa interativo: veja o que cada formato resolve no 100% de GTA 6 e qual combina com o seu jeito de jogar.
-Leia em: https://kakashi4.github.io/centralleonida.github.io/artigo-planilha-vs-guia-em-video.html
+
+**Resposta direta:** não existe um formato melhor para todo mundo. A planilha é melhor para acompanhar o que falta e o progresso por categoria; o vídeo é melhor para ver o caminho e tirar dúvidas pontuais; o checklist em PDF é melhor para imprimir; o mapa interativo é melhor para localizar itens. Muitos jogadores usam mais de um.
+
+## Comparação lado a lado
+
+| Formato | Melhor para | Limitação | Custo típico |
+|---|---|---|---|
+| Planilha | Progresso por categoria, metas e próximos passos | Não mostra localização individual | Pago (ou gratuita, se você montar) |
+| Guia em vídeo | Ver o caminho passo a passo | Difícil de consultar e marcar | Grátis (com anúncios) |
+| Checklist em PDF | Imprimir e marcar sem tela | Manual, não calcula | Grátis ou pago |
+| Mapa interativo | Encontrar itens no mapa | Nem sempre organiza o 100% | Grátis ou pago |
+| Guia editorial | Entender o jogo e conferir listas | Não acompanha seu progresso | Grátis |
+
+## Quando a planilha ganha
+
+A planilha é a melhor escolha quando você:
+
+- Já sabe o que quer fazer, mas não sabe o que falta.
+- Joga em sessões curtas e precisa retomar de onde parou.
+- Quer evitar perder um requisito.
+- Prefere português e uma estrutura pronta.
+
+Ela não substitui o mapa: para achar um item específico, o mapa é mais rápido.
+
+## Quando o vídeo ganha
+
+O vídeo é melhor quando você:
+
+- Está travado em uma missão ou atividade específica.
+- Quer ver o caminho antes de fazer.
+- Prefere aprender assistindo.
+
+O problema é a consulta: voltar 10 minutos de vídeo para conferir um detalhe é lento. Use o vídeo para aprender e a planilha para acompanhar.
+
+## Quando o PDF ganha
+
+O PDF é melhor quando você:
+
+- Gosta de marcar no papel.
+- Quer uma lista ao lado do controle.
+- Não quer depender de tela.
+
+Ele não calcula percentual nem separa categorias automaticamente. É uma lista, não um painel.
+
+## Quando o mapa ganha
+
+O mapa é melhor quando você:
+
+- Precisa da localização exata de um item.
+- Já sabe qual grupo está incompleto.
+- Quer otimizar uma rota de coleta.
+
+Ele não necessariamente organiza a ordem das missões ou o que conta para o 100%.
+
+## O combo mais eficiente
+
+Para a maioria dos jogadores, o combo é:
+
+1. **Planilha** para saber o que falta e o progresso.
+2. **Mapa** para localizar o item específico.
+3. **Vídeo** só quando travar em algo.
+
+O checklist em PDF entra se você preferir papel.
+
+## A Central Leonida
+
+Sou o criador da **Central Leonida**, uma planilha em PT-BR com os requisitos, as missões e os troféus, com painel automático. Ela cobre o “o que falta”; não é mapa interativo e não promete localização individual.
+
+- Starter: US$ 4,99
+- Main: US$ 7,99 (inclui os guias “Primeiros 10 Horas” e “Rota da Platina”)
+
+**Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
+**Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
+
+## Perguntas frequentes
+
+**Vale a pena pagar por uma planilha se existem guias grátis?**
+Se você quer só uma lista, o checklist gratuito resolve. Se você quer calcular progresso e não perder requisitos, a planilha economiza tempo.
+
+**Posso usar planilha e mapa ao mesmo tempo?**
+Sim, e é o combo mais eficiente. A planilha diz o que falta; o mapa mostra onde está.
+
+**A planilha substitui o vídeo?**
+Não. Ela organiza o progresso; o vídeo mostra o caminho. Use cada um para o que faz melhor.
+
+**A Central Leonida é oficial?**
+Não. É um guia não oficial, sem afiliação com Rockstar ou Take-Two.
+
+---
+
+*Central Leonida é um guia não oficial, sem afiliação com a Rockstar Games ou a Take-Two Interactive. “Grand Theft Auto” e “GTA” são marcas de seus respectivos proprietários. Nenhuma arte, imagem ou trecho oficial do jogo é incluído.*
 
