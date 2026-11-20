@@ -29,4 +29,7 @@ Central Leonida é um produto digital independente para jogadores brasileiros de
 ## Optional
 - [Sobre o produtor](https://kakashi4.github.io/centralleonida.github.io/sobre.html)
 - [Política de reembolso](https://kakashi4.github.io/centralleonida.github.io/reembolso.html)
+- [Termos de uso](https://kakashi4.github.io/centralleonida.github.io/termos.html)
+- [Política de privacidade](https://kakashi4.github.io/centralleonida.github.io/privacidade.html)
+- [Contato](https://kakashi4.github.io/centralleonida.github.io/contato.html)
 
