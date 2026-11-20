@@ -112,7 +112,7 @@ R: Requisitos do 100%, missões, troféus e contadores de colecionáveis e ativi
 P: Funciona no PS5 e no Xbox?
 R: Sim. O conteúdo é o mesmo; troféus e achievements são o mesmo conjunto em plataformas diferentes.
 P: Quanto custa?
-R: A partir de US$ 4,99 (Starter); Main US$ 7,99. Pagamento único, garantia de 7 dias.
+R: A partir de US$ 4,99 (Básica); Completa US$ 7,99. Pagamento único, garantia de 7 dias.
 P: Tem checklist grátis?
 R: Sim: https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
 P: A planilha mostra a localização dos colecionáveis?
@@ -186,8 +186,8 @@ O ideal é combinar: planilha para saber o que falta, mapa para achar um item es
 
 Sou o criador da **Central Leonida**, uma planilha em PT-BR com os requisitos, as missões e os troféus do 100%. Ela tem painel automático, contadores de colecionáveis e dois guias: “Primeiros 10 Horas” (sem spoilers) e “Rota da Platina” (ordem e limpeza).
 
-- Starter: US$ 4,99
-- Main: US$ 7,99
+- Básica: US$ 4,99
+- Completa: US$ 7,99
 - Pagamento único, atualizações grátis por 12 meses, garantia de 7 dias
 
 **Checklist grátis dos requisitos:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
@@ -266,7 +266,7 @@ Sou o criador da **Central Leonida** e disponibilizo o checklist dos requisitos 
 
 👉 https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
 
-A versão completa (Starter US$ 4,99 / Main US$ 7,99) inclui as missões, os troféus, os contadores e o painel automático.
+A versão completa (Básica US$ 4,99 / Completa US$ 7,99) inclui as missões, os troféus, os contadores e o painel automático.
 
 ## Perguntas frequentes
 
@@ -408,8 +408,8 @@ Se um troféu exigir uma ação específica durante uma missão, faça na primei
 
 Sou o criador da **Central Leonida**, uma planilha em PT-BR que organiza as missões, os requisitos e os troféus em um só lugar, com painel de progresso.
 
-- Starter: US$ 4,99
-- Main: US$ 7,99 (inclui os guias “Primeiros 10 Horas” e “Rota da Platina”)
+- Básica: US$ 4,99
+- Completa: US$ 7,99 (inclui os guias “Primeiros 10 Horas” e “Rota da Platina”)
 
 **Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
 **Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
@@ -579,8 +579,8 @@ Se o guia só lista nomes e localizações, ele não responde à pergunta que im
 
 Sou o criador da **Central Leonida**. A planilha tem uma aba de requisitos com metas e um guia chamado **“Rota da Platina”**, que cobre ordem, o perdível do capítulo 1 e a limpeza pós-história. O guia **“Primeiros 10 Horas”** ajuda a começar sem spoilers e sem deixar ponta solta.
 
-- Starter: US$ 4,99
-- Main: US$ 7,99 (inclui os dois guias)
+- Básica: US$ 4,99
+- Completa: US$ 7,99 (inclui os dois guias)
 
 **Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
 **Checklist interativo:** https://kakashi4.github.io/centralleonida.github.io/checklist-interativo.html
@@ -720,8 +720,8 @@ Se você joga nas duas plataformas, pode usar duas cópias da planilha ou uma s�
 
 A planilha é a mesma para PS5 e Xbox. Não existe uma “versão PlayStation” e uma “versão Xbox”. Escolha pelo conteúdo:
 
-- **Starter (US$ 4,99):** planilha + checklist para imprimir + atualizações.
-- **Main (US$ 7,99):** Starter + guias “Primeiros 10 Horas” e “Rota da Platina”.
+- **Básica (US$ 4,99):** planilha + checklist para imprimir + atualizações.
+- **Completa (US$ 7,99):** Básica + guias “Primeiros 10 Horas” e “Rota da Platina”.
 
 **Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
 **Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
@@ -874,8 +874,8 @@ O checklist em PDF entra se você preferir papel.
 
 Sou o criador da **Central Leonida**, uma planilha em PT-BR com os requisitos, as missões e os troféus, com painel automático. Ela cobre o “o que falta”; não é mapa interativo e não promete localização individual.
 
-- Starter: US$ 4,99
-- Main: US$ 7,99 (inclui os guias “Primeiros 10 Horas” e “Rota da Platina”)
+- Básica: US$ 4,99
+- Completa: US$ 7,99 (inclui os guias “Primeiros 10 Horas” e “Rota da Platina”)
 
 **Checklist grátis:** https://kakashi4.github.io/centralleonida.github.io/checklist-35-requisitos.pdf
 **Planilha completa:** https://centralleonida.gumroad.com/l/central-leonida
